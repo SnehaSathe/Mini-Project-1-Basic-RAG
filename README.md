@@ -161,6 +161,7 @@ The system answers **only using retrieved context**.
 ## 👩‍💻 Author
 
 **Sneha Sathe**
+
 Aspiring GenAI / AI Engineer | RAG | LangChain | LLMs
 
 ---
