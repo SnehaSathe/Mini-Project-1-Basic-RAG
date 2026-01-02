@@ -136,7 +136,8 @@ The system answers **only using retrieved context**.
 ---
 
 ## Output 
-![alt text](image.png)
+![RAG Output](images/image.png)
+
 
 ## 🧠 Key Learnings
 
